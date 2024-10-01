@@ -1,0 +1,215 @@
+Node 0 - choice 1
+Node 1 - choice 0
+Node 2 - choice 0
+Node 3 - choice 0
+Node 4 - choice 1
+0 : 2 3 4 || 3
+1 : 3 4 || 2
+2 : 0 || 1
+3 : 0 1 4 || 3
+4 : 0 1 3 || 3
+User Simulator thread started.
+PushUpdate thread 1 started
+The random nodes generated are 0 3 4 
+No of actions generate by 0 - 5 and its degree is 3
+PushUpdate thread 2 started
+User 0 generated action 1 of type like at time 1678209635323348000.
+User 0 generated action 1 of type post at time 1678209635323403000.
+User 0 generated action 2 of type like at time 1678209635323413000.
+pushupdate thread 1 pushed the action  0, like, 1 to the feed queue of node 2
+pushupdate thread 2 pushed the action  0, post, 1 to the feed queue of node 2
+PushUpdate thread 3 started
+pushupdate thread 3 pushed the action  0, like, 2 to the feed queue of node 2
+pushupdate thread 1 pushed the action  0, like, 1 to the feed queue of node 3
+pushupdate thread 3 pushed the action  0, like, 2 to the feed queue of node 3
+pushupdate thread 1 pushed the action  0, like, 1 to the feed queue of node 4
+PushUpdate thread 4 started
+User 0 generated action 2 of type post at time 1678209635323505000.
+User 0 generated action 3 of type post at time 1678209635323523000.
+No of actions generate by 3 - 5 and its degree is 3
+User 3 generated action 1 of type like at time 1678209635323591000.
+User 3 generated action 1 of type comment at time 1678209635323617000.
+User 3 generated action 2 of type comment at time 1678209635323626000.
+User 3 generated action 3 of type comment at time 1678209635323635000.
+User 3 generated action 1 of type post at time 1678209635323643000.
+No of actions generate by 4 - 5 and its degree is 3
+User 4 generated action 1 of type like at time 1678209635323656000.
+User 4 generated action 1 of type post at time 1678209635323666000.
+User 4 generated action 2 of type like at time 1678209635323674000.
+User 4 generated action 3 of type like at time 1678209635323682000.
+User 4 generated action 2 of type post at time 1678209635323691000.
+PushUpdate thread 9 started
+pushupdate thread 9 pushed the action  3, like, 1 to the feed queue of node 0
+pushupdate thread 9 pushed the action  3, like, 1 to the feed queue of node 1
+pushupdate thread 9 pushed the action  3, like, 1 to the feed queue of node 4
+pushupdate thread 9 pushed the action  3, comment, 1 to the feed queue of node 0
+pushupdate thread 9 pushed the action  3, comment, 1 to the feed queue of node 1
+pushupdate thread 9 pushed the action  3, comment, 1 to the feed queue of node 4
+pushupdate thread 9 pushed the action  3, comment, 2 to the feed queue of node 0
+pushupdate thread 9 pushed the action  3, comment, 2 to the feed queue of node 1
+pushupdate thread 9 pushed the action  3, comment, 2 to the feed queue of node 4
+pushupdate thread 9 pushed the action  3, comment, 3 to the feed queue of node 0
+pushupdate thread 9 pushed the action  3, comment, 3 to the feed queue of node 1
+pushupdate thread 9 pushed the action  3, comment, 3 to the feed queue of node 4
+pushupdate thread 9 pushed the action  3, post, 1 to the feed queue of node 0
+pushupdate thread 9 pushed the action  3, post, 1 to the feed queue of node 1
+pushupdate thread 9 pushed the action  3, post, 1 to the feed queue of node 4
+pushupdate thread 9 pushed the action  4, like, 1 to the feed queue of node 0
+pushupdate thread 9 pushed the action  4, like, 1 to the feed queue of node 1
+pushupdate thread 9 pushed the action  4, like, 1 to the feed queue of node 3
+pushupdate thread 9 pushed the action  4, post, 1 to the feed queue of node 0
+pushupdate thread 9 pushed the action  4, post, 1 to the feed queue of node 1
+pushupdate thread 9 pushed the action  4, post, 1 to the feed queue of node 3
+pushupdate thread 9 pushed the action  4, like, 2 to the feed queue of node 0
+pushupdate thread 9 pushed the action  4, like, 2 to the feed queue of node 1
+pushupdate thread 9 pushed the action  4, like, 2 to the feed queue of node 3
+pushupdate thread 9 pushed the action  4, like, 3 to the feed queue of node 0
+pushupdate thread 9 pushed the action  4, like, 3 to the feed queue of node 1
+pushupdate thread 9 pushed the action  4, like, 3 to the feed queue of node 3
+pushupdate thread 9 pushed the action  4, post, 2 to the feed queue of node 0
+pushupdate thread 9 pushed the action  4, post, 2 to the feed queue of node 1
+pushupdate thread 9 pushed the action  4, post, 2 to the feed queue of node 3
+PushUpdate thread 10 started
+PushUpdate thread 5 started
+PushUpdate thread 6 started
+pushupdate thread 2 pushed the action  0, post, 1 to the feed queue of node 3
+pushupdate thread 2 pushed the action  0, post, 1 to the feed queue of node 4
+pushupdate thread 3 pushed the action  0, like, 2 to the feed queue of node 4
+PushUpdate thread 7 started
+PushUpdate thread 11 started
+pushupdate thread 1 pushed the action  0, post, 2 to the feed queue of node 2
+pushupdate thread 1 pushed the action  0, post, 2 to the feed queue of node 3
+pushupdate thread 1 pushed the action  0, post, 2 to the feed queue of node 4
+PushUpdate thread 8 started
+pushupdate thread 4 pushed the action  0, post, 3 to the feed queue of node 2
+pushupdate thread 4 pushed the action  0, post, 3 to the feed queue of node 3
+pushupdate thread 4 pushed the action  0, post, 3 to the feed queue of node 4
+PushUpdate thread 12 started
+PushUpdate thread 14 started
+PushUpdate thread 15 started
+PushUpdate thread 17 started
+PushUpdate thread 18 started
+PushUpdate thread 21 started
+PushUpdate thread 23 started
+PushUpdate thread 25 started
+Readpost thread 2 started
+Readpost thread 4 started
+Readpost thread 2 read action number 3 of type post posted by user 0 at time 1678209635323523000 from feed queue of User 2
+Readpost thread 6 started
+Readpost thread 6 read action number 2 of type post posted by user 4 at time 1678209635323691000 from feed queue of User 3
+Readpost thread 7 started
+Readpost thread 7 read action number 2 of type like posted by user 4 at time 1678209635323674000 from feed queue of User 3
+Readpost thread 8 started
+Readpost thread 8 read action number 1 of type like posted by user 0 at time 1678209635323348000 from feed queue of User 4
+Readpost thread 9 started
+Readpost thread 10 started
+PushUpdate thread 13 started
+PushUpdate thread 16 started
+PushUpdate thread 19 started
+PushUpdate thread 20 started
+PushUpdate thread 22 started
+PushUpdate thread 24 started
+Readpost thread 1 started
+Readpost thread 3 started
+Readpost thread 5 started
+Readpost thread 3 read action number 1 of type post posted by user 0 at time 1678209635323403000 from feed queue of User 4
+Readpost thread 9 read action number 1 of type like posted by user 0 at time 1678209635323348000 from feed queue of User 2
+Readpost thread 10 read action number 1 of type like posted by user 3 at time 1678209635323591000 from feed queue of User 0
+Readpost thread 1 read action number 2 of type post posted by user 4 at time 1678209635323691000 from feed queue of User 1
+Readpost thread 5 read action number 1 of type comment posted by user 3 at time 1678209635323617000 from feed queue of User 0
+Readpost thread 4 read action number 2 of type like posted by user 0 at time 1678209635323413000 from feed queue of User 2
+Readpost thread 9 read action number 2 of type comment posted by user 3 at time 1678209635323626000 from feed queue of User 1
+Readpost thread 1 read action number 2 of type like posted by user 0 at time 1678209635323413000 from feed queue of User 4
+Readpost thread 5 read action number 2 of type comment posted by user 3 at time 1678209635323626000 from feed queue of User 0
+Readpost thread 4 read action number 3 of type comment posted by user 3 at time 1678209635323635000 from feed queue of User 1
+Readpost thread 6 read action number 2 of type post posted by user 0 at time 1678209635323505000 from feed queue of User 4
+Readpost thread 8 read action number 1 of type like posted by user 3 at time 1678209635323591000 from feed queue of User 1
+Readpost thread 2 read action number 3 of type comment posted by user 3 at time 1678209635323635000 from feed queue of User 0
+Readpost thread 7 read action number 3 of type post posted by user 0 at time 1678209635323523000 from feed queue of User 4
+Readpost thread 3 read action number 1 of type post posted by user 3 at time 1678209635323643000 from feed queue of User 0
+Readpost thread 10 read action number 1 of type post posted by user 3 at time 1678209635323643000 from feed queue of User 1
+Readpost thread 5 read action number 1 of type like posted by user 3 at time 1678209635323591000 from feed queue of User 4
+Readpost thread 9 read action number 1 of type like posted by user 4 at time 1678209635323656000 from feed queue of User 0
+Readpost thread 1 read action number 1 of type comment posted by user 3 at time 1678209635323617000 from feed queue of User 1
+Readpost thread 4 read action number 1 of type post posted by user 4 at time 1678209635323666000 from feed queue of User 3
+Readpost thread 8 read action number 2 of type like posted by user 4 at time 1678209635323674000 from feed queue of User 1
+Readpost thread 7 read action number 3 of type like posted by user 4 at time 1678209635323682000 from feed queue of User 3
+Readpost thread 6 read action number 1 of type post posted by user 4 at time 1678209635323666000 from feed queue of User 0
+Readpost thread 2 read action number 2 of type like posted by user 4 at time 1678209635323674000 from feed queue of User 0
+Readpost thread 3 read action number 1 of type post posted by user 4 at time 1678209635323666000 from feed queue of User 1
+Readpost thread 10 read action number 1 of type like posted by user 4 at time 1678209635323656000 from feed queue of User 3
+Readpost thread 4 read action number 3 of type like posted by user 4 at time 1678209635323682000 from feed queue of User 0
+Readpost thread 5 read action number 1 of type like posted by user 4 at time 1678209635323656000 from feed queue of User 1
+Readpost thread 9 read action number 2 of type like posted by user 0 at time 1678209635323413000 from feed queue of User 3
+Readpost thread 8 read action number 2 of type post posted by user 4 at time 1678209635323691000 from feed queue of User 0
+Readpost thread 6 read action number 3 of type like posted by user 4 at time 1678209635323682000 from feed queue of User 1
+Readpost thread 2 read action number 3 of type post posted by user 0 at time 1678209635323523000 from feed queue of User 3
+Readpost thread 7 read action number 1 of type like posted by user 0 at time 1678209635323348000 from feed queue of User 3
+Readpost thread 1 read action number 2 of type comment posted by user 3 at time 1678209635323626000 from feed queue of User 4
+Readpost thread 3 read action number 1 of type comment posted by user 3 at time 1678209635323617000 from feed queue of User 4
+Readpost thread 10 read action number 1 of type post posted by user 0 at time 1678209635323403000 from feed queue of User 2
+Readpost thread 4 read action number 2 of type post posted by user 0 at time 1678209635323505000 from feed queue of User 3
+Readpost thread 5 read action number 3 of type comment posted by user 3 at time 1678209635323635000 from feed queue of User 4
+Readpost thread 8 read action number 2 of type post posted by user 0 at time 1678209635323505000 from feed queue of User 2
+Readpost thread 9 read action number 1 of type post posted by user 0 at time 1678209635323403000 from feed queue of User 3
+Readpost thread 6 read action number 1 of type post posted by user 3 at time 1678209635323643000 from feed queue of User 4
+The random nodes generated are 1 3 4 
+No of actions generate by 1 - 4 and its degree is 2
+User 1 generated action 1 of type comment at time 1678209650326797000.
+User 1 generated action 2 of type comment at time 1678209650326977000.
+User 1 generated action 1 of type post at time 1678209650326996000.
+User 1 generated action 2 of type post at time 1678209650327019000.
+pushupdate thread 1 pushed the action  1, comment, 2 to the feed queue of node 3
+pushupdate thread 4 pushed the action  1, post, 1 to the feed queue of node 3
+pushupdate thread 12 pushed the action  1, post, 2 to the feed queue of node 3
+pushupdate thread 1 pushed the action  1, comment, 2 to the feed queue of node 4
+pushupdate thread 8 pushed the action  1, comment, 1 to the feed queue of node 3
+pushupdate thread 8 pushed the action  1, comment, 1 to the feed queue of node 4
+Readpost thread 7 read action number 1 of type comment posted by user 1 at time 1678209650326797000 from feed queue of User 3
+Readpost thread 2 read action number 2 of type comment posted by user 1 at time 1678209650326977000 from feed queue of User 3
+pushupdate thread 4 pushed the action  1, post, 1 to the feed queue of node 4
+Readpost thread 5 read action number 2 of type comment posted by user 1 at time 1678209650326977000 from feed queue of User 4
+Readpost thread 8 read action number 1 of type post posted by user 1 at time 1678209650326996000 from feed queue of User 4
+Readpost thread 1 read action number 1 of type post posted by user 1 at time 1678209650326996000 from feed queue of User 3
+pushupdate thread 12 pushed the action  1, post, 2 to the feed queue of node 4
+Readpost thread 10 read action number 2 of type post posted by user 1 at time 1678209650327019000 from feed queue of User 3
+Readpost thread 3 read action number 1 of type comment posted by user 1 at time 1678209650326797000 from feed queue of User 4
+No of actions generate by 3 - 5 and its degree is 3
+Readpost thread 4 read action number 2 of type post posted by user 1 at time 1678209650327019000 from feed queue of User 4
+User 3 generated action 2 of type like at time 1678209650327526000.
+User 3 generated action 3 of type like at time 1678209650327613000.
+pushupdate thread 14 pushed the action  3, like, 2 to the feed queue of node 0
+pushupdate thread 15 pushed the action  3, like, 3 to the feed queue of node 0
+pushupdate thread 14 pushed the action  3, like, 2 to the feed queue of node 1
+pushupdate thread 14 pushed the action  3, like, 2 to the feed queue of node 4
+Readpost thread 6 read action number 3 of type like posted by user 3 at time 1678209650327613000 from feed queue of User 0
+Readpost thread 9 read action number 2 of type like posted by user 3 at time 1678209650327526000 from feed queue of User 0
+pushupdate thread 15 pushed the action  3, like, 3 to the feed queue of node 1
+pushupdate thread 15 pushed the action  3, like, 3 to the feed queue of node 4
+User 3 generated action 4 of type comment at time 1678209650327818000.
+User 3 generated action 4 of type like at time 1678209650327980000.
+User 3 generated action 5 of type like at time 1678209650328042000.
+No of actions generate by 4 - 5 and its degree is 3
+User 4 generated action 4 of type like at time 1678209650328059000.
+User 4 generated action 5 of type like at time 1678209650328100000.
+User 4 generated action 1 of type comment at time 1678209650328116000.
+User 4 generated action 3 of type post at time 1678209650328129000.
+User 4 generated action 6 of type like at time 1678209650328140000.
+pushupdate thread 17 pushed the action  3, comment, 4 to the feed queue of node 0
+pushupdate thread 18 pushed the action  3, like, 4 to the feed queue of node 0
+pushupdate thread 15 pushed the action  3, like, 5 to the feed queue of node 0
+pushupdate thread 14 pushed the action  4, like, 4 to the feed queue of node 0
+pushupdate thread 21 pushed the action  4, like, 5 to the feed queue of node 0
+pushupdate thread 1 pushed the action  4, comment, 1 to the feed queue of node 0
+pushupdate thread 23 pushed the action  4, post, 3 to the feed queue of node 0
+pushupdate thread 25 pushed the action  4, like, 6 to the feed queue of node 0
+pushupdate thread 25 pushed the action  4, like, 6 to the feed queue of node 1
+pushupdate thread 25 pushed the action  4, like, 6 to the feed queue of node 3
+pushupdate thread 17 pushed the action  3, comment, 4 to the feed queue of node 1
+pushupdate thread 17 pushed the action  3, comment, 4 to the feed queue of node 4
+pushupdate thread 18 pushed the action  3, like, 4 to the feed queue of node 1
+pushupdate thread 18 pushed the action  3, like, 4 to the feed queue of node 4
+pushupdate thread 15 pushed the action  3, like, 5 to the feed queue of node 1
+pushupdate thread 21 pushed the action  4, like, 5 to the feed queue of node 1
+pushupdate thread 15 pushed the action  3, like, 5 to the feed queue of node 4
+pushupdate thread 21 pus
